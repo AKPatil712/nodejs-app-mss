@@ -36,6 +36,3 @@
   "author": "Mithun Reddy Lacchannagari",
   "license": "MIT"
 },
-"scripts": { 
-  "refreshVSToken" : "vsts-npm-auth -config .npmrc" 
-}
